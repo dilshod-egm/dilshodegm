@@ -1,10 +1,10 @@
 # Dilshod-Egm portfolio website
 ## Используемые технологии:
-Frontend: Javascript
-Framework: Vanilla.js
-Styling: SCSS
-Animation: GSAP (GreenSock Animation Platform)
-External Libraries: Split-Type, Lenis, ScrollTrigger
+- Frontend: Javascript
+- Framework: Vanilla.js
+- Styling: SCSS
+- Animation: GSAP (GreenSock Animation Platform)
+- External Libraries: Split-Type, Lenis, ScrollTrigger
 
 ## Link: https://young-dawn-5308.on.fleek.co/
 
